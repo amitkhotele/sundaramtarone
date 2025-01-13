@@ -993,7 +993,7 @@ section,
   color: #f37421; /* Orange color */
   margin-bottom: 30px;
   text-transform: uppercase;
-  margin-right: 20px;
+  margin-right: 0px;
   font-weight: bold;
   text-align: center;
 }
@@ -1010,7 +1010,7 @@ section,
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 30px;
+  gap: 10px;
   margin-bottom: 30px;
 }
 
@@ -1029,7 +1029,7 @@ section,
 }
 
 .icon3 img {
-  width: 120px; /* Adjust the icon size */
+  width: 140px; /* Adjust the icon size */
   height: auto;
   transition: transform 0.3s ease;
   /* margin-right: 30px; */
